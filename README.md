@@ -1,4 +1,4 @@
-### Hi there 👋
+### i don't understand for what need this stupid file 👋
 
 <!--
 **jetjo/jetjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
