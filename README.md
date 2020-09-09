@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - :) text smile presented ...
 -->
 new line from github
+
+new line from branch new-functions
