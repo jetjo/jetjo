@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 new line from github
 
 new line from branch new-functions
+
+
+deleted other files
