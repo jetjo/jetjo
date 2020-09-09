@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 update local README2 from my pc
 
 Hello from branch add-feature1
+
+new line from branch new-functions
