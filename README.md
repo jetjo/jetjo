@@ -6,3 +6,5 @@ fuck off!!!!
 critical bug fixed
 string from master
 test
+# string from add-newfunction branch
+test911
